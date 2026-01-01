@@ -1,1 +1,0 @@
-Munka segédlet . fémszerkezet gyártáshoz
